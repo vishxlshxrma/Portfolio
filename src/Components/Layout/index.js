@@ -1,5 +1,4 @@
 import { Outlet } from 'react-router-dom';
-// import Sidebar from '../Sidebar/index'; 
 import Sidebar from '../sidebar';
 import './index.scss'
 
