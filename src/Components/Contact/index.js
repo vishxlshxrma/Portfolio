@@ -29,7 +29,13 @@ const Contact = () => {
         'Z7fBmmhLv6-AmyHgh'
 
       );
-
+        setFormData({
+            name: '',
+            email: '',
+            subject: '',
+            message: '',
+          }
+        )
       
       alert('Email sent successfully', response);
     } catch (error) {
