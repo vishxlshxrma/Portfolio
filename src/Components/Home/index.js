@@ -9,8 +9,8 @@ import Loader from 'react-loaders';
 const Home = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = ['i','s','h','a','l']
-    const jobArray = ['i','o','s',' ','d','e','v','e','l','o','p','e','r','.']
+    const nameArray = ['i','s','h','a','l',' ','a']
+    const jobArray = ['W','e','b',' ','d','e','v','e','l','o','p','e','r','.']
 
     useEffect(() => {
         const timeoutID = setTimeout(() => {
@@ -41,7 +41,7 @@ const Home = () => {
                 strArray={jobArray}
                 idx={22} />
                 </h1>
-                <h2>iOS Developer / Data Scientist / Web Developer</h2>
+                <h2>Web Development / Data Science / iOS Development</h2>
                 <Link to='/contact'className='flat-button'>CONTACT ME</Link>
             </div>
             <Logo />

@@ -2,16 +2,30 @@
     "portfolio": [
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind",
-            "url": "http://google.com"
+            "title": "J.A.R.V.I.S.",
+            "description": "Python, NLP, DevOps, API",
+            "url": "https://github.com/vishxlshxrma/J.A.R.V.I.S."
         },
 
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/two.png",
+            "title": "Malaria Classification",
+            "description": "Python, Deep Learning, Data Science",
+            "url": "https://github.com/vishxlshxrma/Malaria_Classification"
+        },
+
+        {
+            "cover": "/portfolio/1/three.png",
+            "title": "iOS Video Player App Template",
+            "description": "Swift, XCode, iOS",
+            "url": "https://github.com/vishxlshxrma/iOS_VideoPlayerTemplate"
+        },
+
+        {
+            "cover": "/portfolio/1/four.png",
+            "title": "Music Store Analysis",
+            "description": "PostGre SQL, Data Analysis",
+            "url": "https://github.com/vishxlshxrma/Music_Store_Analysis"
         }
     ]
 }

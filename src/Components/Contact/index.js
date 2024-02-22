@@ -65,7 +65,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            Hello there! I'm Vishal, a passionate and results-driven Data Scientist with a relentless curiosity for unlocking the hidden insights within data. My mission is to leverage the power of data to make informed decisions, drive innovation, and create positive impact.
+          Feel free to reach out! I'm open to connecting, exploring new opportunities, and engaging in meaningful conversations. Looking forward to hearing from you!
           </p>
 
           <div className='contact-form'>

@@ -29,13 +29,10 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                Hello there! I'm Vishal, a passionate and results-driven Data Scientist with a relentless curiosity for unlocking the hidden insights within data. My mission is to leverage the power of data to make informed decisions, drive innovation, and create positive impact.
+                Hello! I'm Vishal Kumar, a B.Tech graduate in Computer Science with a solid foundation in web development. My academic journey at Maharaja Surajmal Institute of Technology equipped me with a diverse skill set. My expertise extends to MERN Stack development, where I successfully designed and implemented seamless user experiences.
                 </p>
                 <p>
-                Seeking a role that leverages my B.Tech in Computer Science (CGPA: 8.8) and diverse experiences. As an Operational Analyst intern, I've optimized workflows. Skilled in IMS, Cloud Computing, Full Stack Development. Eager to contribute technical expertise, innovation, and collaborative spirit.
-                </p>
-                <p>
-                Hello there! I'm Vishal, a passionate and results-driven Data Scientist with a relentless curiosity for unlocking the hidden insights within data. My mission is to leverage the power of data to make informed decisions, drive innovation, and create positive impact.
+                In addition to my technical proficiency, I've explored various facets of data science, contributing to impactful projects like Malaria Detection using Python and Machine Learning. I have a keen interest in the synergy between artificial intelligence and voice assistants, as reflected in my research publications.
                 </p>
             </div>
 
