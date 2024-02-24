@@ -5,6 +5,7 @@ import Home from './Components/Home';
 import About from './Components/About';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
+import { gsap } from "gsap";
 
 function App() {
   return (
