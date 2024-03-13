@@ -29,7 +29,7 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                Hello! I'm Jasvin Kaur, a B.Tech graduate in Computer Science with a solid foundation in web development. My academic journey at University of Waterloo equipped me with a diverse skill set. My expertise extends to MERN Stack development, where I successfully designed and implemented seamless user experiences.
+                Hello! I'm Vishal, a B.Tech graduate in Computer Science with a solid foundation in web development. My academic journey equipped me with a diverse skill set. My expertise extends to MERN Stack development, where I successfully designed and implemented seamless user experiences.
                 </p>
                 <p>
                 In addition to my technical proficiency, I've explored various facets of data science, contributing to impactful projects like Malaria Detection using Python and Machine Learning. I have a keen interest in the synergy between artificial intelligence and voice assistants, as reflected in my research publications.

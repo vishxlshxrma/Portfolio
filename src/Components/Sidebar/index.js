@@ -1,7 +1,7 @@
 import { Link, NavLink } from 'react-router-dom'
 import './index.scss'
-import LogoS from '../../assets/images/logo-s.png'
-import LogoSubtitle from '../../assets/images/logo_sub.png'
+import LogoS from '../../assets/images/logo-v.png'
+import LogoSubtitle from '../../assets/images/logo_vsub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faHome, faSuitcase, faUser } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
@@ -31,7 +31,7 @@ const Sidebar = () => (
                 <a
                     target='_blank'
                     rel='noreferrer'
-                    href='https://www.linkedin.com/in/jasvin-kaur-0a68b7217/'
+                    href='https://www.linkedin.com/in/vishal-kumar-130a90249/'
                 >
                     <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
                 </a>
@@ -41,7 +41,7 @@ const Sidebar = () => (
                 <a
                     target='_blank'
                     rel='noreferrer'
-                    href='https://github.com/j225kaur'
+                    href='https://github.com/vishxlshxrma'
                 >
                     <FontAwesomeIcon icon={faGithub} color='#4d4d4e' />
                 </a>
